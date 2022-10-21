@@ -1,5 +1,6 @@
 # Asian Kitchen
-*All
-*Korea
-*Japan
-*China
+
+-All
+-Korea
+-Japan
+-China
